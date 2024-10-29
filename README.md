@@ -1,8 +1,17 @@
 # strom_app
+ ## [apk link here](apk/app-release.apk)
 
-A new Flutter project.
+### check the apk directory to access the app:
 
-## Getting Started
+<table>
+  <tr>
+    <td><img src="apk/images/image2_light.png" alt="Image 2" width=""/></td>
+    <td><img src="apk/images/image1_dark.png" alt="Image 1" width=""/></td>
+    
+  </tr>
+</table>
+
+#
 
 This project is a starting point for a Flutter application.
 
